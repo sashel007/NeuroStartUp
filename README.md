@@ -1,2 +1,0 @@
-# NeuroStartUp
-test for Netology
